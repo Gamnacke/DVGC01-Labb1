@@ -1,4 +1,4 @@
-/*  HENRIK HULTGREN  */
+
 
 /**********************************************************************/
 /* lab 1 DVG C01 - Happy Hacker version  Donald Ross  060422          */
